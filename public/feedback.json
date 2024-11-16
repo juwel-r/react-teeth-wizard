@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "userImg": "https://randomuser.me/api/portraits/women/21.jpg",
+    "comment": "The service was absolutely fantastic! The staff made me feel so comfortable from the moment I walked in. They explained everything clearly and answered all my questions, leaving me fully satisfied with the experience.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "userImg": "https://randomuser.me/api/portraits/men/32.jpg",
+    "comment": "I had an amazing experience at this dental clinic. The equipment is modern, and the dentist was so gentle during my procedure. I am very happy with the results and would highly recommend this clinic to anyone.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Sophia Brown",
+    "userImg": "https://randomuser.me/api/portraits/women/45.jpg",
+    "comment": "It was my first time visiting this clinic, and I am truly impressed! The dentist took the time to discuss my concerns and provided a detailed plan for my dental health. The atmosphere is welcoming and relaxing as well.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "James Wilson",
+    "userImg": "https://randomuser.me/api/portraits/men/55.jpg",
+    "comment": "This clinic exceeded my expectations in every way. The professionalism, cleanliness, and care provided are unmatched. I felt valued as a patient and left feeling confident in my smile. Highly recommend their services!",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "userImg": "https://randomuser.me/api/portraits/women/33.jpg",
+    "comment": "My kids were initially nervous, but the staff did such a wonderful job making them feel comfortable. They even taught them proper brushing techniques. I am so thankful for the friendly and caring team at this clinic.",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "name": "Daniel Martinez",
+    "userImg": "https://randomuser.me/api/portraits/men/67.jpg",
+    "comment": "The whole experience was great from start to finish. Scheduling an appointment was easy, and the staff was incredibly accommodating. I will definitely return for future dental treatments and recommend them to others.",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "Olivia Garcia",
+    "userImg": "https://randomuser.me/api/portraits/women/29.jpg",
+    "comment": "I was very impressed with the level of attention I received here. The dentist went above and beyond to ensure my treatment was comfortable. I am truly grateful for their kindness and expertise throughout the process.",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "William Lee",
+    "userImg": "https://randomuser.me/api/portraits/men/77.jpg",
+    "comment": "This is hands down the best dental clinic I’ve visited. They take the time to ensure you’re comfortable and informed about each step. The results of my treatment were outstanding. I can’t recommend them enough!",
+    "rating": 5
+  }
+]

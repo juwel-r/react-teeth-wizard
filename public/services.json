@@ -1,0 +1,59 @@
+[        {
+    "id": 1,
+    "treatment": "Dental Cleaning",
+    "image": "https://img.freepik.com/premium-vector/vector-illustration-teeth-cleaning-with-brush-dental-hygiene-concept_501045-1067.jpg",
+    "description": "Keep your teeth and gums healthy with professional dental cleaning to remove plaque and tartar buildup.",
+    "cost": "$150"
+  },
+  {
+    "id": 2,
+    "treatment": "Gum Disease Treatment",
+    "image": "https://media.istockphoto.com/id/1166217763/vector/gum-treatment-gum-disease.jpg?s=612x612&w=0&k=20&c=7PA2GumPdKwNOg3p__Ji2JOE3h2yKjNPgvbAYO-ddqs=",
+    "description": "Effective solutions for treating gum diseases, ensuring healthy gums and a strong foundation for your teeth.",
+    "cost": "$800"
+  },
+    {
+      "id": 3,
+      "treatment": "Orthodontics",
+      "image": "https://st2.depositphotos.com/2914637/9790/v/450/depositphotos_97901920-stock-illustration-braces-teeth-of-dental-healthcare.jpg",
+      "description": "Straighten your teeth with advanced orthodontic solutions, including braces and Invisalign aligners.",
+      "cost": "1500"
+    },
+    {
+      "id": 4,
+      "treatment": "Root Canal Treatment",
+      "image": "https://www.flossdentalhouston.com/wp-content/uploads/2023/09/root-canal-therapry-in-houston-tx-floss-dental-of-houston-midtown-1024x819.jpg",
+      "description": "Save your natural teeth with precise and pain-free root canal treatment from our experienced dentists.",
+      "cost": "1200"
+    },
+    {
+      "id": 5,
+      "treatment": "Cosmetic Dentistry",
+      "image": "https://img.freepik.com/premium-vector/dental-veneers-isolated-concept-vector-illustration-veneer-placement-dental-beauty-solution-teeth-aesthetics-cosmetic-dentistry-service-orthodontic-clinic-celebrity-smile-vector-concept_107173-53290.jpg",
+      "description": "Enhance your smile with veneers, bonding, and other cosmetic dental treatments tailored to your needs.",
+      "cost": "1800"
+    },
+    {
+      "id": 6,
+      "treatment": "Pediatric Dentistry",
+      "image": "https://thumbs.dreamstime.com/b/pediatric-dentist-vector-illustration-doctor-medicine-woman-baby-53822598.jpg",
+      "description": "Gentle and caring dental services for children, ensuring healthy teeth and gums for a lifetime.",
+      "cost": "300"
+    },
+    {
+      "id": 7,
+      "treatment": "Teeth Whitening",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/011/220/268/small_2x/white-teeth-and-pink-lips-a-smiling-mouth-of-a-young-woman-dental-concept-veneers-teeth-whitening-copy-space-illustration-vector.jpg",
+      "description": "Brighten your smile with our professional teeth whitening services, providing a radiant and confident appearance.",
+      "cost": "250"
+    },
+    {
+      "id": 8,
+      "treatment": "Dental Implants",
+      "image": "https://thumbs.dreamstime.com/b/dental-implants-healthy-teeth-generated-image-stomatology-illustrations-vector-health-tooth-implant-dentistry-installation-339127371.jpg",
+      "description": "Replace missing teeth with durable, natural-looking dental implants for a complete and healthy smile.",
+      "cost": "3000"
+    }
+
+  ]
+  
