@@ -1,59 +1,58 @@
-[        {
+[
+  {
     "id": 1,
     "treatment": "Dental Cleaning",
     "image": "https://img.freepik.com/premium-vector/vector-illustration-teeth-cleaning-with-brush-dental-hygiene-concept_501045-1067.jpg",
-    "description": "Keep your teeth and gums healthy with professional dental cleaning to remove plaque and tartar buildup.",
+    "description": "Maintain your oral health with our professional dental cleaning service designed to remove plaque and tartar that brushing alone cannot eliminate. This essential procedure helps prevent cavities, gum disease, and bad breath while giving you a confident, fresh smile. Our experienced hygienists use advanced tools to thoroughly clean your teeth, ensuring comfort and precision. Dental cleaning is key to preserving your overall health, as poor oral hygiene can lead to more serious health issues. Regular cleaning keeps your gums healthy and prevents the buildup of bacteria that could otherwise cause infections or tooth loss. Book your appointment today for a brighter, healthier smile.",
     "cost": "$150"
   },
   {
     "id": 2,
     "treatment": "Gum Disease Treatment",
     "image": "https://media.istockphoto.com/id/1166217763/vector/gum-treatment-gum-disease.jpg?s=612x612&w=0&k=20&c=7PA2GumPdKwNOg3p__Ji2JOE3h2yKjNPgvbAYO-ddqs=",
-    "description": "Effective solutions for treating gum diseases, ensuring healthy gums and a strong foundation for your teeth.",
+    "description": "Gum disease can significantly impact your oral and overall health if left untreated. Our comprehensive gum disease treatment targets the root cause of the problem to restore your gums to optimal health. Whether you're experiencing gingivitis or more advanced periodontitis, our expert team uses the latest techniques to remove bacteria and plaque from below the gum line, stopping the disease in its tracks. Healthy gums are the foundation of strong teeth, and untreated gum disease can lead to tooth loss and other complications. We focus on personalized care, offering scaling, root planing, and advanced procedures as needed to suit your condition. Your smile deserves a strong, healthy foundation, and we're here to help you achieve it.",
     "cost": "$800"
   },
-    {
-      "id": 3,
-      "treatment": "Orthodontics",
-      "image": "https://st2.depositphotos.com/2914637/9790/v/450/depositphotos_97901920-stock-illustration-braces-teeth-of-dental-healthcare.jpg",
-      "description": "Straighten your teeth with advanced orthodontic solutions, including braces and Invisalign aligners.",
-      "cost": "1500"
-    },
-    {
-      "id": 4,
-      "treatment": "Root Canal Treatment",
-      "image": "https://www.flossdentalhouston.com/wp-content/uploads/2023/09/root-canal-therapry-in-houston-tx-floss-dental-of-houston-midtown-1024x819.jpg",
-      "description": "Save your natural teeth with precise and pain-free root canal treatment from our experienced dentists.",
-      "cost": "1200"
-    },
-    {
-      "id": 5,
-      "treatment": "Cosmetic Dentistry",
-      "image": "https://img.freepik.com/premium-vector/dental-veneers-isolated-concept-vector-illustration-veneer-placement-dental-beauty-solution-teeth-aesthetics-cosmetic-dentistry-service-orthodontic-clinic-celebrity-smile-vector-concept_107173-53290.jpg",
-      "description": "Enhance your smile with veneers, bonding, and other cosmetic dental treatments tailored to your needs.",
-      "cost": "1800"
-    },
-    {
-      "id": 6,
-      "treatment": "Pediatric Dentistry",
-      "image": "https://thumbs.dreamstime.com/b/pediatric-dentist-vector-illustration-doctor-medicine-woman-baby-53822598.jpg",
-      "description": "Gentle and caring dental services for children, ensuring healthy teeth and gums for a lifetime.",
-      "cost": "300"
-    },
-    {
-      "id": 7,
-      "treatment": "Teeth Whitening",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/011/220/268/small_2x/white-teeth-and-pink-lips-a-smiling-mouth-of-a-young-woman-dental-concept-veneers-teeth-whitening-copy-space-illustration-vector.jpg",
-      "description": "Brighten your smile with our professional teeth whitening services, providing a radiant and confident appearance.",
-      "cost": "250"
-    },
-    {
-      "id": 8,
-      "treatment": "Dental Implants",
-      "image": "https://thumbs.dreamstime.com/b/dental-implants-healthy-teeth-generated-image-stomatology-illustrations-vector-health-tooth-implant-dentistry-installation-339127371.jpg",
-      "description": "Replace missing teeth with durable, natural-looking dental implants for a complete and healthy smile.",
-      "cost": "3000"
-    }
-
-  ]
-  
+  {
+    "id": 3,
+    "treatment": "Orthodontics",
+    "image": "https://st2.depositphotos.com/2914637/9790/v/450/depositphotos_97901920-stock-illustration-braces-teeth-of-dental-healthcare.jpg",
+    "description": "Achieve a perfectly aligned smile with our state-of-the-art orthodontic treatments. Whether you have crooked teeth, gaps, or bite issues, we offer customized solutions such as traditional braces and Invisalign aligners. Straight teeth not only improve your appearance but also contribute to better oral health by making cleaning and maintenance easier. Our orthodontic experts design personalized treatment plans that ensure effective and comfortable results. A beautiful smile can boost your confidence and leave a lasting impression. Invest in your dental health with our advanced orthodontic options, tailored to suit your needs and lifestyle. With modern techniques and cutting-edge technology, we make the process smooth and rewarding for patients of all ages.",
+    "cost": "1500"
+  },
+  {
+    "id": 4,
+    "treatment": "Root Canal Treatment",
+    "image": "https://www.flossdentalhouston.com/wp-content/uploads/2023/09/root-canal-therapry-in-houston-tx-floss-dental-of-houston-midtown-1024x819.jpg",
+    "description": "Preserve your natural teeth with our expertly performed root canal treatment. This procedure is designed to save teeth that are severely decayed or infected, eliminating pain and restoring functionality. Our skilled dentists ensure a painless and precise process, using advanced technology to remove the infected pulp while maintaining the tooth structure. Root canal treatment is a critical solution to avoid tooth extraction, enabling you to maintain a natural and confident smile. After the procedure, the treated tooth is sealed and often crowned for added protection and longevity. Choose our clinic for a comfortable, stress-free experience that puts your dental health first. Don't let tooth pain disrupt your life—get back to smiling confidently today.",
+    "cost": "1200"
+  },
+  {
+    "id": 5,
+    "treatment": "Cosmetic Dentistry",
+    "image": "https://img.freepik.com/premium-vector/dental-veneers-isolated-concept-vector-illustration-veneer-placement-dental-beauty-solution-teeth-aesthetics-cosmetic-dentistry-service-orthodontic-clinic-celebrity-smile-vector-concept_107173-53290.jpg",
+    "description": "Enhance your smile with our specialized cosmetic dentistry services tailored to bring out your natural beauty. From veneers and bonding to teeth whitening and reshaping, we offer a wide range of treatments designed to improve the appearance of your teeth. A radiant smile can significantly boost your confidence and positively impact your personal and professional life. Our expert dentists work closely with you to design a personalized treatment plan that suits your goals and preferences. Using advanced materials and techniques, we ensure that your smile looks natural and stunning. Discover the transformative power of cosmetic dentistry and experience the joy of smiling with pride and confidence.",
+    "cost": "1800"
+  },
+  {
+    "id": 6,
+    "treatment": "Pediatric Dentistry",
+    "image": "https://thumbs.dreamstime.com/b/pediatric-dentist-vector-illustration-doctor-medicine-woman-baby-53822598.jpg",
+    "description": "Give your child a strong start to lifelong oral health with our gentle and comprehensive pediatric dentistry services. We specialize in creating a positive and fun dental experience for children, ensuring they feel safe and comfortable. From routine cleanings and exams to cavity prevention and early orthodontic evaluations, we provide the foundation for healthy teeth and gums. Our friendly and experienced team uses age-appropriate techniques and tools to cater to children's unique needs. Early dental care is essential for identifying potential issues and instilling good oral hygiene habits. Let us help your little ones enjoy bright, healthy smiles that last a lifetime.",
+    "cost": "300"
+  },
+  {
+    "id": 7,
+    "treatment": "Teeth Whitening",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/220/268/small_2x/white-teeth-and-pink-lips-a-smiling-mouth-of-a-young-woman-dental-concept-veneers-teeth-whitening-copy-space-illustration-vector.jpg",
+    "description": "Brighten your smile with our professional teeth whitening services, designed to remove stubborn stains and discoloration caused by coffee, tea, tobacco, and more. A dazzling white smile can make a lasting impression and boost your confidence in social and professional settings. Our advanced whitening techniques ensure safe, effective, and long-lasting results. Whether you choose in-office treatment or custom take-home kits, we tailor the process to your specific needs for maximum comfort and effectiveness. Reclaim your smile's natural radiance and enjoy the confidence that comes with a brighter, whiter smile. Our whitening solutions are quick, convenient, and designed to fit your lifestyle.",
+    "cost": "250"
+  },
+  {
+    "id": 8,
+    "treatment": "Dental Implants",
+    "image": "https://thumbs.dreamstime.com/b/dental-implants-healthy-teeth-generated-image-stomatology-illustrations-vector-health-tooth-implant-dentistry-installation-339127371.jpg",
+    "description": "Restore your smile with our durable and natural-looking dental implants. This revolutionary solution replaces missing teeth, providing a strong and stable foundation for chewing, speaking, and smiling confidently. Dental implants are crafted to match your natural teeth, seamlessly blending in for a flawless appearance. Our experienced specialists use advanced techniques to ensure a comfortable and precise procedure. Implants not only enhance your smile's aesthetics but also prevent bone loss and maintain facial structure. Enjoy the freedom to eat, speak, and smile without worry. Trust us to provide the highest quality care and achieve a healthy, complete smile that lasts a lifetime.",
+    "cost": "3000"
+  }
+]

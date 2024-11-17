@@ -13,7 +13,7 @@ const Navbar = () => {
                 <NavLink className="px-2 py-1" to='/profile'>Profile</NavLink>
             </div>
             <div>
-                <button className='btn btn-sm btn-ghost border-orange-500 text-orange-500'>Login</button>
+                <button className='btn btn-sm btn-ghost bg-orange-500 text-white'>Login</button>
             </div>
             </div>
         </div>
